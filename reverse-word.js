@@ -13,3 +13,5 @@ for(let i = reversed; i >= 0; i--){
 
 let reversedStatement = reversedWords.join(' ').trimStart();
 console.log(reversedStatement);
+
+// Output is 'person working hard a am I'

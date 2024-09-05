@@ -10,4 +10,4 @@ for(let i = reverse; i >= 0; i--){
     console.log(colors[i]);
 }
 
-// The output is orange, yellow, green, blue, red.
+// The output is 'orange, yellow, green, blue, red'
